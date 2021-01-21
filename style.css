@@ -1,0 +1,36 @@
+h1{
+    color: red;
+    background: yellowgreen;
+    text-align: right;
+}
+
+h2{
+    color: blue;
+}
+
+h3{
+    color: yellow;
+    background: red;
+    text-align: center;
+}
+
+h4{
+    font-size: 50px;
+    color: violet;
+    background-color: green;
+    text-align: right;
+}
+
+h5{
+    background: yellow;
+    color: green;
+    font-size: 35px;
+    text-align: center;
+}
+
+h6{
+    color:white;
+
+    background-color: gray;
+    font-size: 25px;
+}
